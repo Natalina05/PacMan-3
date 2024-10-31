@@ -8,5 +8,5 @@ A ideia surgiu a partir do amor da equipe pelo Natal, com isso decidimos criar u
 * Os designs foram feitos em Pixel Art, no site Piskel. 
 * Pegamos uma programção do PacMan básico do Fernando Dalai (ferdal137) https://github.com/ferdal137/Python-Pacman-Game/commit/b4730defc38ed18b504f4193151cf2d231d3035d e realizamos algumas modificações, sendo a principal a troca dos desenhos dos personagens por imagens em png.
 * A tela de início foi desenvolvida pela equipe com os conhecimentos adquiridos em aula com a ajuda da professora.
-* Nesse momento estamos tentado mudar o fundo da tela de início, fazer uma tela de pontuação, fazer as imagens serem gifs, e mudar a posição dos personagens.
+* Nesse momento estamos tentado fazer uma tela de pontuação, fazer as imagens serem gifs, e mudar a posição dos personagens.
 * As colaboradoras são: Ana Luiza (Aninha047), Julia (Julinha4463) e Natália (Natalina05).
